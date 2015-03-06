@@ -4,7 +4,7 @@
 	used to post data to MOLPay from POS machine. consist of 2 method : 
 	1. QR4Buyer Payment : Buyer scan QRCode in POS machine. QRCode is obtained from MOLWallet.
 	2. MobilePay		: POS machine send notification to buyer mobile app, buyer approve the payment in mobile app.
-	
+	-----------------------
 ***/
 Class POS_MOLPay {
 	
