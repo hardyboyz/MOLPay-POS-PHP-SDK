@@ -6,7 +6,6 @@
 	2. MobilePay		: POS machine send notification to buyer mobile app, buyer approve the payment in mobile app.
 	
 ***/
-session_start();
 Class POS_MOLPay {
 	
 	var $url 	= 'https://www.onlinepayment.com.my/MOLPay/API/mobile_new/index.php';
